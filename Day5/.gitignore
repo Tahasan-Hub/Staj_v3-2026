@@ -1,0 +1,14 @@
+#Sanal Ortam ve Python ÖnBellekleri 
+.venv/
+__pycache__/
+*.pyc
+
+#Yapay Zeka Modelleri
+*.pt
+
+#Gizli Bilgiler
+.env
+
+#Veritabanı ve Çıktı Dosyaları
+*.db
+kayitlar/
